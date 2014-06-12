@@ -22,9 +22,17 @@ Displays Touch ID authentication screen, and ask for user fingerprint.
 * **failCallback**: Called when the dialog is cancelled.
 * **message**: Message to display in the input dialog. Can be any string. 
 
+## Sample App
+
+You can see the sample app from the following GitHub repo.
+
+ [https://github.com/monaca-plugins/samples/](https://github.com/monaca-plugins/samples/)
+
+!["Touch ID Sample"](http://blog.monaca.mobi/wp-content/uploads/2014/06/touchid.png)
+
 ## How to Use
 
-Described in our blog post. See the post [here](http://blog.monaca.mobi/).
+Described in our blog post. See the post [here](http://monaca.mobi/en/blog/archives/515).
 
 ## License
 
