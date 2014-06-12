@@ -10,4 +10,4 @@ touchid.prototype.auth = function (success, fail, message) {
     exec(success, fail, "TouchIdPlugin", "auth", [message]);
 };
 
-module.exports = new TouchIdPlugin();
+module.exports = new touchid();
